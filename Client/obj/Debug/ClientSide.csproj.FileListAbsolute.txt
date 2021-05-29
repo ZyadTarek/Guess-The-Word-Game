@@ -1,0 +1,22 @@
+C:\Users\Alaas\Downloads\Final\Final\project\C# Project-v3 Alaa\HangmanD-7ClientSide\HangmanD-7\obj\Debug\ClientSide.ClientForm.resources
+C:\Users\Alaas\Downloads\Final\Final\project\C# Project-v3 Alaa\HangmanD-7ClientSide\HangmanD-7\obj\Debug\ClientSide.secretword.resources
+C:\Users\Alaas\Downloads\Final\Final\project\C# Project-v3 Alaa\HangmanD-7ClientSide\HangmanD-7\obj\Debug\HangmanD_7.Properties.Resources.resources
+C:\Users\Alaas\Downloads\Final\Final\project\C# Project-v3 Alaa\HangmanD-7ClientSide\HangmanD-7\obj\Debug\ClientSide.csproj.GenerateResource.cache
+C:\Users\Alaas\Downloads\Final\Final\project\C# Project-v3 Alaa\HangmanD-7ClientSide\HangmanD-7\obj\Debug\ClientSide.csproj.CoreCompileInputs.cache
+C:\Users\Alaas\Downloads\Final\Final\project\C# Project-v3 Alaa\HangmanD-7ClientSide\HangmanD-7\obj\Debug\HangmanD-7.exe
+C:\Users\Alaas\Downloads\Final\Final\project\C# Project-v3 Alaa\HangmanD-7ClientSide\HangmanD-7\obj\Debug\HangmanD-7.pdb
+C:\Users\Alaas\Downloads\Final\Final\project\C# Project-v3 Alaa\HangmanD-7ClientSide\HangmanD-7\bin\Debug\HangmanD-7.exe.config
+C:\Users\Alaas\Downloads\Final\Final\project\C# Project-v3 Alaa\HangmanD-7ClientSide\HangmanD-7\bin\Debug\HangmanD-7.exe
+C:\Users\Alaas\Downloads\Final\Final\project\C# Project-v3 Alaa\HangmanD-7ClientSide\HangmanD-7\bin\Debug\HangmanD-7.pdb
+C:\Users\Alaas\Downloads\Final\Final\project\C# Project-v3 Alaa\HangmanD-7ClientSide\HangmanD-7\obj\Debug\ClientSide.csprojAssemblyReference.cache
+G:\ITI\Visual C# .Net\Secret Word Game Project - Group 3\C# Project Group3\ClientSide\Client\bin\Debug\HangmanD-7.exe.config
+G:\ITI\Visual C# .Net\Secret Word Game Project - Group 3\C# Project Group3\ClientSide\Client\bin\Debug\HangmanD-7.exe
+G:\ITI\Visual C# .Net\Secret Word Game Project - Group 3\C# Project Group3\ClientSide\Client\bin\Debug\HangmanD-7.pdb
+G:\ITI\Visual C# .Net\Secret Word Game Project - Group 3\C# Project Group3\ClientSide\Client\obj\Debug\ClientSide.csprojAssemblyReference.cache
+G:\ITI\Visual C# .Net\Secret Word Game Project - Group 3\C# Project Group3\ClientSide\Client\obj\Debug\ClientSide.ClientForm.resources
+G:\ITI\Visual C# .Net\Secret Word Game Project - Group 3\C# Project Group3\ClientSide\Client\obj\Debug\ClientSide.secretword.resources
+G:\ITI\Visual C# .Net\Secret Word Game Project - Group 3\C# Project Group3\ClientSide\Client\obj\Debug\HangmanD_7.Properties.Resources.resources
+G:\ITI\Visual C# .Net\Secret Word Game Project - Group 3\C# Project Group3\ClientSide\Client\obj\Debug\ClientSide.csproj.GenerateResource.cache
+G:\ITI\Visual C# .Net\Secret Word Game Project - Group 3\C# Project Group3\ClientSide\Client\obj\Debug\ClientSide.csproj.CoreCompileInputs.cache
+G:\ITI\Visual C# .Net\Secret Word Game Project - Group 3\C# Project Group3\ClientSide\Client\obj\Debug\HangmanD-7.exe
+G:\ITI\Visual C# .Net\Secret Word Game Project - Group 3\C# Project Group3\ClientSide\Client\obj\Debug\HangmanD-7.pdb
